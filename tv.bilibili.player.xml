@@ -12,7 +12,7 @@
 <item enabled="true">r=空[难難]|[坠墜][机機]|空降|盲降|指[挥揮]部</item>
 <item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+(口气|刷|周目)</item>
 <item enabled="true">r=重温|重看|前排</item>
-<item enabled="true">t=见.滚</item>
+<item enabled="true">t=[见見].[滚滾]</item>
 <item enabled="true">r=(失踪|死亡)人口</item>
 <item enabled="true">r=都想你|(我[们們])?(想|等|[爱愛])你|[等接]你回[来來家]</item>
 <item enabled="true">r=[妈媽][卖賣]批|[无無]耻|垃圾|完爆|辣[鸡雞]</item>
