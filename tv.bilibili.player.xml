@@ -1,5 +1,4 @@
 <filters>
-<item enabled="true">r=</item>
 <item enabled="true">r=\d\d年路[过過]</item>
 <item enabled="true">r=^233+$</item>
 <item enabled="true">r=^(\d|\!|\?|！|？|\.|。|,|，)\1\1+$</item>
