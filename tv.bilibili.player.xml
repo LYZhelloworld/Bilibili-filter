@@ -1,45 +1,45 @@
 <filters>
-	<item enabled="true">r=</item>
-	<item enabled="true">r=\d\d年路[过過]</item>
-	<item enabled="true">r=^233+$</item>
-	<item enabled="true">r=^(\d|\!|\?|！|？|\.|。|,|，)\1\1+$</item>
-	<item enabled="true">r=^FFF+$</item>
-	<item enabled="true">r=^yoo+$</item>
-	<item enabled="true">r=[开開]口跪</item>
-	<item enabled="true">r=完[结結][撒散]花</item>
-	<item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+[级級]路[过過]</item>
-	<item enabled="true">r=^(第|前)[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+(？|\?|!|！)*$</item>
-	<item enabled="true">r= +$</item>
-	<item enabled="true">r=空[难難]|[坠墜][机機]|空降|盲降|指[挥揮]部</item>
-	<item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+(口气|刷|周目)</item>
-	<item enabled="true">r=重温|重看|前排</item>
-	<item enabled="true">r=(失踪|死亡)人口</item>
-	<item enabled="true">r=都想你|(我[们們])?(想|等|[爱愛])你|[等接]你回[来來家]</item>
-	<item enabled="true">r=[妈媽][卖賣]批|[无無]耻|垃圾|完爆|辣[鸡雞]</item>
-	<item enabled="true">r=([Mm][Dd]|妈的)?([zZ]{2}|智障)</item>
-	<item enabled="true">r=[卧臥握沃喔窝窩我WwOo]+[槽操日草艹屮艸芔茻肏CcAaOo]+</item>
-	<item enabled="true">r=[操日干淦幹草艹屮艸芔茻肏RrIiCcAaOo]+(泥[马馬]|尼[玛瑪]|你[妈媽]|[NnIi]+[MmAa]+)</item>
-	<item enabled="true">r=[灵靈][车車]漂移|全家(爆炸|升天)</item>
-	<item enabled="true">r=花式洗|洗地|跪舔</item>
-	<item enabled="true">r=[为為]黑而黑|故意黑|不吹不黑</item>
-	<item enabled="true">r=笑[喷噴]|笑尿|智商|丢人|睁[着]?眼[说說]瞎[话話]|不要[脸臉]|[Nn]+[Cc]+|[脑腦][残殘]|你行你上</item>
-	<item enabled="true">r=[Cc][Nn][Mm]|垃圾|低能|全家|白[痴癡]|有病|[噴喷][？\?!神子]|[无無没沒][聊劲勁趣]|抄[袭襲]|[優优]越|[户戶]口|自古|智[力商]</item>
-	<item enabled="true">r=[找去须須吃作做会要].{0,5}[Ss死屎]</item>
-	<item enabled="true">r=中[二2]|[厨廚]|[難难][看听聽]|[掛挂][Bb]|[惡恶]心|[讨討][厌厭]|自重|坐等|下限</item>
-	<item enabled="true">r=乱(七八|78)糟|[个個][Pp屁皮痞]|白痴|死[的得地]?早|[着著找捉拙][急鸡鷄计]|[二两兩2][货貨]|兵[库庫][东東南西北]|弱智|狗屎|瞎(了)?眼|屮艸芔茻</item>
-	<item enabled="true">r=[Cc][Tt][Rr][Ll]\+[FfWw]</item>
-	<item enabled="true">r=掉[粉分]|取(消)?[关関](注)?</item>
-	<item enabled="true">r=水军</item>
-	<item enabled="true">r=^[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+分钟(之)?前(？|！|\!|\?)?</item>
-	<item enabled="true">r=(米|果|索|花|[华華])(粉|黑|蛆|狗)</item>
-	<item enabled="true">r=天朝|种花民族|共和[国國固]+</item>
-	<item enabled="true">r=富[强強].*民主|文明.*和[谐諧]|自由.*平等|公正.*法治|[爱愛][国國].*敬[業业]|[诚誠]信.*友善</item>
-	<item enabled="true">r=[暂暫]停看.字</item>
-	<item enabled="true">r=[Ff]+[LlIi]+[Aa]+[Gg]+</item>
-	<item enabled="true">r=[颜顔]表立|美如[画畫]|大法好|[赛賽]高|合影</item>
-	<item enabled="true">r=感[动動]|走好|想哭|[泪淚]目</item>
-	<item enabled="true">r=路[过過]|在[这這此]|冒泡</item>
-	<item enabled="true">r=^(170001|10492)$</item>
-	<item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+年[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+月[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+日</item>
-	<item enabled="true">r=(白羊|金牛|[双雙]子|巨蟹|[狮獅]子|[处処]女|天[秤平枰]|天[蝎蠍]|射手|摩羯|水瓶|[双雙][鱼魚])((座)?的)(在此)?</item>
+<item enabled="true">r=</item>
+<item enabled="true">r=\d\d年路[过過]</item>
+<item enabled="true">r=^233+$</item>
+<item enabled="true">r=^(\d|\!|\?|！|？|\.|。|,|，)\1\1+$</item>
+<item enabled="true">r=^FFF+$</item>
+<item enabled="true">r=^yoo+$</item>
+<item enabled="true">r=[开開]口跪</item>
+<item enabled="true">r=完[结結][撒散]花</item>
+<item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+[级級]路[过過]</item>
+<item enabled="true">r=^(第|前)[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+(？|\?|!|！)*$</item>
+<item enabled="true">r= +$</item>
+<item enabled="true">r=空[难難]|[坠墜][机機]|空降|盲降|指[挥揮]部</item>
+<item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+(口气|刷|周目)</item>
+<item enabled="true">r=重温|重看|前排</item>
+<item enabled="true">r=(失踪|死亡)人口</item>
+<item enabled="true">r=都想你|(我[们們])?(想|等|[爱愛])你|[等接]你回[来來家]</item>
+<item enabled="true">r=[妈媽][卖賣]批|[无無]耻|垃圾|完爆|辣[鸡雞]</item>
+<item enabled="true">r=([Mm][Dd]|妈的)?([zZ]{2}|智障)</item>
+<item enabled="true">r=[卧臥握沃喔窝窩我WwOo]+[槽操日草艹屮艸芔茻肏CcAaOo]+</item>
+<item enabled="true">r=[操日干淦幹草艹屮艸芔茻肏RrIiCcAaOo]+(泥[马馬]|尼[玛瑪]|你[妈媽]|[NnIi]+[MmAa]+)</item>
+<item enabled="true">r=[灵靈][车車]漂移|全家(爆炸|升天)</item>
+<item enabled="true">r=花式洗|洗地|跪舔</item>
+<item enabled="true">r=[为為]黑而黑|故意黑|不吹不黑</item>
+<item enabled="true">r=笑[喷噴]|笑尿|智商|丢人|睁[着]?眼[说說]瞎[话話]|不要[脸臉]|[Nn]+[Cc]+|[脑腦][残殘]|你行你上</item>
+<item enabled="true">r=[Cc][Nn][Mm]|垃圾|低能|全家|白[痴癡]|有病|[噴喷][？\?!神子]|[无無没沒][聊劲勁趣]|抄[袭襲]|[優优]越|[户戶]口|自古|智[力商]</item>
+<item enabled="true">r=[找去须須吃作做会要].{0,5}[Ss死屎]</item>
+<item enabled="true">r=中[二2]|[厨廚]|[難难][看听聽]|[掛挂][Bb]|[惡恶]心|[讨討][厌厭]|自重|坐等|下限</item>
+<item enabled="true">r=乱(七八|78)糟|[个個][Pp屁皮痞]|白痴|死[的得地]?早|[着著找捉拙][急鸡鷄计]|[二两兩2][货貨]|兵[库庫][东東南西北]|弱智|狗屎|瞎(了)?眼|屮艸芔茻</item>
+<item enabled="true">r=[Cc][Tt][Rr][Ll]\+[FfWw]</item>
+<item enabled="true">r=掉[粉分]|取(消)?[关関](注)?</item>
+<item enabled="true">r=水军</item>
+<item enabled="true">r=^[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+分钟(之)?前(？|！|\!|\?)?</item>
+<item enabled="true">r=(米|果|索|花|[华華])(粉|黑|蛆|狗)</item>
+<item enabled="true">r=天朝|种花民族|共和[国國固]+</item>
+<item enabled="true">r=富[强強].*民主|文明.*和[谐諧]|自由.*平等|公正.*法治|[爱愛][国國].*敬[業业]|[诚誠]信.*友善</item>
+<item enabled="true">r=[暂暫]停看.字</item>
+<item enabled="true">r=[Ff]+[LlIi]+[Aa]+[Gg]+</item>
+<item enabled="true">r=[颜顔]表立|美如[画畫]|大法好|[赛賽]高|合影</item>
+<item enabled="true">r=感[动動]|走好|想哭|[泪淚]目</item>
+<item enabled="true">r=路[过過]|在[这這此]|冒泡</item>
+<item enabled="true">r=^(170001|10492)$</item>
+<item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+年[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+月[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+日</item>
+<item enabled="true">r=(白羊|金牛|[双雙]子|巨蟹|[狮獅]子|[处処]女|天[秤平枰]|天[蝎蠍]|射手|摩羯|水瓶|[双雙][鱼魚])((座)?的)(在此)?</item>
 </filters>
