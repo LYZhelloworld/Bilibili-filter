@@ -1,5 +1,5 @@
 <filters>
-<item enabled="true">r=\d\d年路[过過]</item>
+<item enabled="true">r=[0-9]{2}年路[过過]</item>
 <item enabled="true">r=^233+$</item>
 <item enabled="true">r=^FFF+$</item>
 <item enabled="true">r=^yoo+$</item>
@@ -7,7 +7,7 @@
 <item enabled="true">r=完[结結][撒散]花</item>
 <item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+[级級]路[过過]</item>
 <item enabled="true">r=^(第|前)[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+(？|\?|!|！)*$</item>
-<item enabled="true">r=\s{5,}$</item>
+<item enabled="true">r= {5,}$</item>
 <item enabled="true">r=空([难難]|降)|盲降|[坠墜][机機]|指[挥揮]部</item>
 <item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+(口气|刷|周目)</item>
 <item enabled="true">r=重(温|看)|前排</item>
@@ -39,7 +39,7 @@
 <item enabled="true">r=[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+年[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+月[零一二三四五六七八九十百千万萬亿億0-9①②③④⑤⑥⑦⑧⑨⑩]+日</item>
 <item enabled="true">r=(白羊|金牛|[双雙]子|巨蟹|[狮獅]子|[处処]女|天[秤平枰]|天[蝎蠍]|射手|摩羯|水瓶|[双雙][鱼魚])((座)?的)(在此)?</item>
 <item enabled="true">r=自[动動]换色|[颜顔](色代)?表立([场場])?|如果奇[迹跡]有[颜顔]色</item>
-<item enabled="true">r=计[数數]君|^(\*|x|X)\d*$</item>
+<item enabled="true">r=计[数數]君|^(\*|x|X)[0-9]*$</item>
 <item enabled="true">r=以上企[业業]均</item>
 <item enabled="true">r=((左|右|中)[键鍵]|F5|←|空格)已坏</item>
 <item enabled="true">r=暴露([时時][间間]|年[龄齡])</item>
@@ -50,7 +50,7 @@
 <item enabled="true">r=[妈媽]{1,2}你[听聼]我解[释釋]|放[开開]那[个個]|[妈媽]{1,2}问(我[为為][什甚][麽么])?跪</item>
 <item enabled="true">r=[当當]你看到[这這][条條][弹彈]幕</item>
 <item enabled="true">r=只有[会會][员員]才知道</item>
-<item enabled="true">r=^(.\s+)+.$</item>
+<item enabled="true">r=^(. +)+.$</item>
 <item enabled="true">r=分[钟鐘][诅詛]咒$</item>
 <item enabled="true">r=^.月是.+的.+$</item>
 <item enabled="true">r=.+[关關][系係]毁[于於]B站</item>
