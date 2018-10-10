@@ -50,7 +50,6 @@
 <item enabled="true">r=[妈媽]{1,2}你[听聼]我解[释釋]|放[开開]那[个個]|[妈媽]{1,2}问(我[为為][什甚][麽么])?跪</item>
 <item enabled="true">r=[当當]你看到[这這][条條][弹彈]幕</item>
 <item enabled="true">r=只有[会會][员員]才知道</item>
-<item enabled="true">r=^(. +)+.$</item>
 <item enabled="true">r=分[钟鐘][诅詛]咒$</item>
 <item enabled="true">r=^.月是.+的.+$</item>
 <item enabled="true">r=.+[关關][系係]毁[于於]B站</item>
