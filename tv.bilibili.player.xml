@@ -96,5 +96,8 @@
 <item enabled="true">r=^.月是.+的.+$</item>
 <item enabled="true">r=^prpr$</item>
 <item enabled="true">r=[祥羊][瑞踹][御玉][免兔]</item>
+<item enabled="true">t=家宅平安</item>
 <item enabled="true">r=.+中[间間].+</item>
+<item enabled="true">r=^\s*[▁▂▃▄▅▆▇█\s]+\s*$</item>
+<item enabled="true">r=(\*|x|×)\s*\d+$</item>
 </filters>
